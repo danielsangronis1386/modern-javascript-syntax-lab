@@ -173,10 +173,6 @@ console.log(pizzaFlavor)
 // d. Log the value of `lang` to the console.
 //
 // Your code here (localLangConfig is provided to get you started):
-
-
-
-
 // Simulated language configuration (change this variable to test)
 //const localLangConfig = null; // Change to 'es', 'fr', etc., or leave it `null`.
 const localLangConfig = "es"
